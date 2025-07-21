@@ -18,7 +18,7 @@ success.classList.add("display")
 
 }
 
-const buttons = document.querySelectorAll(".rating_btn"); // plural name for all buttons
+const buttons = document.querySelectorAll(".rating_btn"); 
 let selectedRating = null;
 
 buttons.forEach(btn => {

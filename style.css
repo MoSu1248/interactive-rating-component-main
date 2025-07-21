@@ -117,6 +117,14 @@ cursor:auto;
     height: 2.2rem;
     letter-spacing: 0.2rem;
     cursor: pointer;
+        transition: 0.2s ease-out;
+
+}
+
+.submit_btn:hover{
+    background-color: var(--White);
+    transition: 0.2s ease-in;
+
 }
 
 .active{
